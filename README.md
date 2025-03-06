@@ -63,7 +63,7 @@ This data can be plotted on a map for visualization.
 
 ## Analysis Results
 
-<img src="image1.png" alt="1">
+<img src="image1.jpeg" alt="1">
 
 ##  Distinct Values
 
