@@ -97,13 +97,19 @@ The **average trip distance** is approximately **3.37 km** based on the filtered
 
 A histogram of the trip distances can be found in the project output (refer to images for visualization).
 
+<img src="image2.jpeg" alt="1">
+
 ### Average Passengers Per Hour
 
 The average number of passengers per hour of the day was computed and visualized. The chart is available in the project output.
 
+<img src="image3.jpeg" alt="1">
+
 ### Reduced Dataset
 
 A reduced dataset (1 out of every 1000 rows) was generated and analyzed. A comparison of the analysis results from the reduced dataset versus the full dataset can be found in the project output (refer to the corresponding chart).
+
+<img src="image4.jpeg" alt="1">
 
 ## Data Files
 
